@@ -1,0 +1,17 @@
+Python dependencies
+
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+statsmodels
+pmdarima
+yfinance
+streamlit
+openpyxl
+
+Install using:
+
+pip install -r requirements.txt
