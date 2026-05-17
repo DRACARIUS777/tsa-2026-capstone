@@ -1,4 +1,4 @@
-Python dependencies
+
 
 pandas
 numpy
@@ -12,6 +12,3 @@ yfinance
 streamlit
 openpyxl
 
-Install using:
-
-pip install -r requirements.txt
