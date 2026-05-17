@@ -6,8 +6,8 @@ st.set_page_config(layout='wide')
 
 st.title('TSA 2026 Capstone Dashboard')
 
-portfolio_df = pd.read_csv('../outputs/tables/portfolio_allocation.csv')
-metrics_df = pd.read_csv('../outputs/tables/model_metrics.csv')
+portfolio_df = pd.read_csv('outputs/tables/portfolio_allocation.csv')
+metrics_df = pd.read_csv('outputs/tables/model_metrics.csv')
 
 st.header('Portfolio Allocation')
 
